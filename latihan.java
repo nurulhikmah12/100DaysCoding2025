@@ -6,9 +6,9 @@ public class latihan {
     int angka = sc.nextInt();
 
     if(angka % 2 == 0) {
-      System.out.println("Angka adalah genap");
+      System.out.println("Angka "+ angka +" adalah genap");
     }else{
-      System.out.println("Angka adalah ganjil");
+      System.out.println("Angka "+ angka +" adalah ganjil");
     }
   }
 }

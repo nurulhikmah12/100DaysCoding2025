@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LuasLingkaran {
+public class day24 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan jari-jari lingkaran: ");

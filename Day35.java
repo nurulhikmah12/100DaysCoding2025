@@ -1,4 +1,4 @@
-public class Main {
+public class day35 {
     public static void main(String[] args) {
         int umur = 25;
 
